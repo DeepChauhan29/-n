@@ -1,2 +1,3 @@
 # -n
-this is my first repo
+this is my first repo.
+I have nothing.
